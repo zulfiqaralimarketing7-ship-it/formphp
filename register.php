@@ -18,6 +18,10 @@
         <input type="password" name="cpassword" placeholder="Confirm Password" required><br><br>
         <button type="submit">Create Account</button>
     </form>
+    <p style="text-align:center; margin-top:15px;">
+        Already have an account?
+        <a href="login.php">Login here</a>
+    </p>
 </div>
 </body>
 </html>
